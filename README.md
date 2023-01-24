@@ -1,4 +1,4 @@
-# PROJEK-3-ELECTIONS-SCRAPER
+# PROJEKT-3-ELECTIONS-SCRAPER
 
 Vítám Vás u třetího python projektu do Engeto akademie. :wave:
 
