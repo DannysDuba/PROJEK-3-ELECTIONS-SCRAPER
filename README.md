@@ -52,7 +52,13 @@ Výsledky pro hlasování pro okres Jihlava:
 586854,Arnolec,133,96,96,13,0,0,9,0,2,9,0,1,1,0,0,5,0,0,37,0,9,2,0,2,0,6,0
 586862,Batelov,1925,1244,1238,88,0,0,83,3,23,127,11,18,8,0,0,137,0,37,397,8,129,1,21,6,2,135,4`
 
-**UKÁZKA ŠPATNĚ ZADANÝCH ARGUMENTŮ**
+**UKÁZKA PŘI ŠPATNĚ ZADANÝCH ARGUMENTŮ**
 
-``
+`"Program need 2 arguments to run. URL, CSV file. Exiting program."`
+
+`"First argument  is not correct. Exiting program."`
+
+`"Second argument  is not correct. Exiting program."`
+
+
 
