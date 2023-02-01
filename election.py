@@ -110,7 +110,7 @@ def main():
     data_main = data(code_text, cities, parties_text)
     csv_table(parties_text, data_main, csv_file)
 
-    print(f"""Data was saved into. Exiting program""")
+    print(f"""Data was saved. Exiting program""")
 
 
 if __name__ == '__main__':
