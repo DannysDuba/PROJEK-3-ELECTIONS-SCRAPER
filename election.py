@@ -101,8 +101,8 @@ def data(code_text, cities, parties_text):
 def main():
     """Hlavní funkce pro spuštění skriptu."""
     arguments()
-    url = "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=10&xnumnuts=6102"
-    csv_file = "election_data.csv"
+    url = sys.argv[1]
+    csv_file = sys.argv[2]
     soup = response_server(url)
     cities = location(soup)
     code_text = codes(soup)
