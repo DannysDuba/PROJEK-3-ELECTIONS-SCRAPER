@@ -23,6 +23,8 @@ Aby jste mohli spustit soubor election.py, potřebujete k tomu 2 povinné argume
 
 `python election.py <"url uzemního celku"> <"soubor.csv">`
 
+Na Macu použijte `python3`
+
 
 ### UKÁZKA PROJEKTU
 
